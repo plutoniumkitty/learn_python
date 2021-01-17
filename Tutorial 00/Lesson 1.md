@@ -1,3 +1,5 @@
+## Lesson 2
+
 ## Welcome to your first python lesson. Yay! :smile:
 
 ## Let's start off at the beginning. I'm going to assume you know how to use python and it's IDLE shell and such. If you don't, please find out and come back, because we will not be covering this.
@@ -16,4 +18,4 @@
 
 ## If you're ready :white_check_mark:, we can move to the next lesson. Press the check mark icon below this line. :smile:
 
-## [:white_check_mark:](
+## [:white_check_mark:](https://github.com/plutoniumkitty/learn_python/blob/main/Tutorial%2000/Lesson%202.md)
