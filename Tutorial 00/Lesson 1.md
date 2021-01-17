@@ -1,0 +1,17 @@
+## Welcome to your first python lesson. Yay! :smile:
+
+## Let's start off at the beginning. I'm going to assume you know how to use python and it's IDLE shell and such. If you don't, please find out and come back, because we will not be covering this.
+
+## Python is an object oriented programming language. This means it is about creating objects that contain both data and functions.
+
+## :information_source: The actual lesson starts now. :smile:
+
+## This is a print statement: ```print ("Hello World!")```
+
+## In python, a print statement is a line of code that tells python to output a certain value to the screen. For example, the print statement above, would print this: ```Hello World!```
+
+## Go ahead and practise print statements in your python window.
+
+## Once you have done that, we can move on
+
+## Ready? :white_check_mark: Let's Go! :checkered_flag:
