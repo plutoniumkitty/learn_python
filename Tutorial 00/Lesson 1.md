@@ -12,6 +12,8 @@
 
 ## Go ahead and practise print statements in your python window.
 
-## Once you have done that, we can move on
+## Once you have done that, we can move on.
 
-## Ready? :white_check_mark: Let's Go! :checkered_flag:
+## If you're ready :white_check_mark:, we can move to the next lesson. Press the check mark icon below this line. :smile:
+
+## [:white_check_mark:](
