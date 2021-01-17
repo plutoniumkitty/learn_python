@@ -1,4 +1,4 @@
-## Lesson 2
+## Lesson 1
 
 ## Welcome to your first python lesson. Yay! :smile:
 
